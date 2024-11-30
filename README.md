@@ -119,4 +119,4 @@ Contributions are welcome! Please follow these steps:
 
 ## 📧 **Contact**
 For queries or contributions, feel free to reach out:
-- **Raj Tyagi**: [LinkedIn](https://www.linkedin.com/in/rajtyagi307) | [Email](mailto:rajtyagi307@gmail.com)
+- **Raj Tyagi**: [LinkedIn](https://www.linkedin.com/in/raj-tyagi-83765b21b/) 
