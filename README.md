@@ -1,4 +1,4 @@
-# Social-Network-Dynamic-Analysis
+# Social-Network-Dynamic-Analysis 
 A comprehensive project leveraging Social Network Analysis (SNA) techniques to explore relationships, identify key influencers, detect communities, and predict future connections within a dummy social network
 This repository contains the implementation and analysis of a **Social Network Analysis (SNA)** project, which studies the structure, dynamics, and key factors influencing relationships within a dummy social network. The analysis employs various SNA techniques and visualizations to derive insights into the network's behavior and structure.
 
