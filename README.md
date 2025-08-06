@@ -119,4 +119,5 @@ Contributions are welcome! Please follow these steps:
 
 ## 📧 **Contact**
 For queries or contributions, feel free to reach out:
-- **Raj Tyagi**: [LinkedIn](https://www.linkedin.com/in/raj-tyagi-83765b21b/) 
+- **Raj Tyagi**: [LinkedIn](https://www.linkedin.com/in/raj-tyagi-83765b21b/)
+- **Tushar Sood**:[LinkedIn](https://www.linkedin.com/in/tushar-sood-03927b238/)
